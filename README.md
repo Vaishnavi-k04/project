@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VaishnaviKarthigeyan04 👋
+- 👋 Hi, I’m @VaishnaviK👋
 - I’m passionate about venturing into the future and exploring upcoming technologies.
 - I’m currently learning the advanced technologies. 
 - I’m looking to collaborate on open-source projects that make a positive impact on society.
